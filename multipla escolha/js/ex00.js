@@ -31,4 +31,8 @@ switch(dia){
         alert("Sabado")
         break
     }
+    default:{
+        alert("erro")
+        break
+    }
 }
